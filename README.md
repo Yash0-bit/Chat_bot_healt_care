@@ -4,6 +4,7 @@
 
 
 #Screenshots#
+![Using Gradio](Screen_shot\1.png)
 
 
 ## Introduction
