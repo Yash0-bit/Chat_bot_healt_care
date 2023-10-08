@@ -4,6 +4,12 @@
 
 
 #Screenshots#
+![1](https://github.com/Yash0-bit/Chat_bot_healt_care/assets/141344406/b923aa10-43cd-479d-b4c8-460e34732469)
+
+![2](https://github.com/Yash0-bit/Chat_bot_healt_care/assets/141344406/4a886c2d-a6f2-4e30-b54a-f66ffe665869)
+
+![3](https://github.com/Yash0-bit/Chat_bot_healt_care/assets/141344406/a4d81365-548c-4655-9e90-a06ca63267cd)
+
 
 
 
