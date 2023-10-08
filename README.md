@@ -4,6 +4,9 @@
 
 
 #Screenshots#
+![Gradio Deployment](C:\Users\Yash\OneDrive\Desktop\Study\Chat_bot_kratin_LLC\Screen_shots\1.png)
+![Flask Deployment](C:\Users\Yash\OneDrive\Desktop\Study\Chat_bot_kratin_LLC\Screen_shots\2.png)
+![Flask Deployment](C:\Users\Yash\OneDrive\Desktop\Study\Chat_bot_kratin_LLC\Screen_shots\3.png)
 
 
 ## Introduction
